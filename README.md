@@ -1,3 +1,5 @@
+[![Build Status](http://ec2-3-23-163-152.us-east-2.compute.amazonaws.com/buildStatus/icon?job=pi-challenge)](http://ec2-3-23-163-152.us-east-2.compute.amazonaws.com/job/pi-challenge/)
+
 
 # pi-challenge
 
